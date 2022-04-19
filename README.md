@@ -3,7 +3,7 @@
 
 
 ## 糖果主機
-### 自動抽續費優惠碼 SugarHosts_GoodLuck.php
+### SugarHosts_GoodLuck.php
 糖果主機每8小時可以抽一次抽續費優惠碼
 
 使用說明
