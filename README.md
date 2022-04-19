@@ -1,13 +1,11 @@
-# SugarHostsScript
+# PHP Script
 用於糖果主機的一些script
 
 
-
-## 自動抽續費優惠碼
+## 糖果主機
+### 自動抽續費優惠碼 SugarHosts_GoodLuck.php
 糖果主機每8小時可以抽一次抽續費優惠碼
 
-
-### PHP版: SugarHosts_GoodLuck.php
 使用說明
 
 需要自行微調成自己的版本，且需要自行設定排程來觸發，來做到自動化抽優惠碼
