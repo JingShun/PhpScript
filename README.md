@@ -1,5 +1,5 @@
 # PHP Script
-用於糖果主機的一些script
+用PHP寫的一些script，有些要配合PhpLibraries
 
 
 ## 糖果主機
